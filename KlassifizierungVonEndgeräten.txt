@@ -11,5 +11,5 @@ Netzwerkinfrastruktur ist dreiteilig:
 - Dienste (Software)
 	-> Alltägliche Netzwerkanwendungen, Betrieb eines Nezwerks
 
-
+- Edit von dem File um einen neuen Feature Branch zu erstellen
 
