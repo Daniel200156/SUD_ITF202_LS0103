@@ -1,0 +1,15 @@
+Klassifizierung von Endgeräten
+
+Netzwerkinfrastruktur ist dreiteilig: 
+
+- Geräte (Hardware)
+	-> Endgerät ist entweder Quelle oder Ziel einer Nachricht über das Netzwerk
+		-> Indentifiziert durch Adresse
+- Medien (Hardware verbindungen)
+	-> Physische Komponente
+
+- Dienste (Software)
+	-> Alltägliche Netzwerkanwendungen, Betrieb eines Nezwerks
+
+
+
