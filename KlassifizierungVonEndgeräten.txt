@@ -12,4 +12,4 @@ Netzwerkinfrastruktur ist dreiteilig:
 	-> Alltägliche Netzwerkanwendungen, Betrieb eines Nezwerks
 
 - Edit von dem File um einen neuen Feature Branch zu erstellen
-
+- Weiteres Edit um den Feature Branch weiterzuführen
