@@ -13,3 +13,4 @@ Netzwerkinfrastruktur ist dreiteilig:
 
 - Edit von dem File um einen neuen Feature Branch zu erstellen
 - Weiteres Edit um den Feature Branch weiterzuführen
+- Weiteres Edit, diesmal von Zuhause für die Hausaufgabe
